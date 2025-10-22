@@ -6,6 +6,6 @@
   },
   "dependencies": {
     "n8n": "1.115.3",
-    "n8n-nodes-cloudinary": "0.5.1"
+    "n8n-nodes-cloudinary": "0.7.0"
   }
 }
